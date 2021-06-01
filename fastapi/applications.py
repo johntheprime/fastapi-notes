@@ -1,3 +1,6 @@
+# 概览：本文件是整个框架中第二大文件（以代码行数论），仅次于routing.py；
+# TODO：待继续
+
 from typing import Any, Callable, Coroutine, Dict, List, Optional, Sequence, Type, Union
 
 from fastapi import routing
