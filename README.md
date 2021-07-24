@@ -48,7 +48,7 @@ https://codeload.github.com/tiangolo/fastapi/zip/refs/tags/0.65.1
 
 ## 源码文档结构说明  
 
-###文件夹：
+### 文件夹：
 - .github：用于github相关的文件，相关的流程文档，提issue的模板，以及自动化的脚本等。
   有兴趣的小伙伴可以看看action中的文件。其中的`FUNDING.yml`被删除，不想引起误会； 
 - docs：各个语言版本的教程文档，其中包含中文，见zh文件夹；
@@ -58,7 +58,7 @@ https://codeload.github.com/tiangolo/fastapi/zip/refs/tags/0.65.1
 - scripts：各种脚本，含格式化代码，文档生成，发布，压缩等等，都是在linux类系统中可以直接执行的代码；
 - test：用于框架测试的代码；
 
-###文件：
+### 文件：
 - `.flake8`：一款辅助检测`Python`代码是否规范的工具，想用可以`pip install flake8`安装使用；
 - `.gitignore`：本文件内容里的文件或文件夹,是无法被版本管理工具`git`跟踪到的；
 - `CONTRIBUTING.md`：如果你想给`fastapi`框架贡献代码，可以到这里看看；
